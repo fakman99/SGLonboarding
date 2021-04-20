@@ -1,0 +1,4 @@
+#Tue Apr 20 11:34:58 CEST 2021
+base.0=/home/tt/Bureau/OnboardingSgl2/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
